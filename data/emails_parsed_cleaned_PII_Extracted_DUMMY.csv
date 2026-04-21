@@ -1,0 +1,117 @@
+Unnamed: 0,file_name,file_path,email_text,Folder_1,Folder_2,Folder_3,Folder_4,Folder_5,Folder_6,Folder_7,Folder_8,Folder_9,Folder_10,email_title,email_original_message,from_email,sent_email,to_email,cc_email,subject_email,importance_email,email_text_content,cleaned_text,names,phone_numbers,email_addresses,dates,ssn
+0,20010315-0912 Budget review Q1.eml,C:\Emails_Archiving\SampleArchive_Converted\archive1.pst\Archive\Top of Personal Folders\Finance- Budget\20010315-0912 Budget review Q1.eml,"Hi team,
+Please review the attached Q1 budget summary before our meeting on Friday. Let me know if you have questions.
+
+Thanks,
+Alex
+
+-----Original Message-----
+From: Jordan, Sam
+Sent: Thursday, March 14, 2001 4:30 PM
+To: Alex Turner
+Subject: RE: Budget review Q1",C:,Emails_Archiving,SampleArchive_Converted,archive1.pst,Archive,Top of Personal Folders,Finance- Budget,20010315-0912 Budget review Q1.eml,,,20010315-0912 Budget review Q1,"Hi team,
+Please review the attached Q1 budget summary before our meeting on Friday.","Jordan, Sam (Finance)","Thursday, March 14, 2001 4:30 PM","Turner, Alex (Finance)",,Budget review Q1,,"Hi team,
+Please review the attached Q1 budget summary before our meeting on Friday. Let me know if you have questions.
+
+Thanks,
+Alex","Hi team,
+Please review the attached Q1 budget summary before our meeting on <DATE_TIME1>. Let me know if you have questions.
+
+Thanks,
+<PERSON1>","{'<PERSON1>': 'Alex', '<PERSON2>': 'Sam'}",{},{},{'<DATE_TIME1>': 'Friday'},{}
+1,20010315-0912 Budget review Q1.eml,C:\Emails_Archiving\SampleArchive_Converted\archive1.pst\Archive\Top of Personal Folders\Finance- Budget\20010315-0912 Budget review Q1.eml,"Hi team,
+Please review the attached Q1 budget summary before our meeting on Friday. Let me know if you have questions.
+
+Thanks,
+Alex
+
+-----Original Message-----
+From: Jordan, Sam
+Sent: Thursday, March 14, 2001 4:30 PM
+To: Alex Turner
+Subject: RE: Budget review Q1",C:,Emails_Archiving,SampleArchive_Converted,archive1.pst,Archive,Top of Personal Folders,Finance- Budget,20010315-0912 Budget review Q1.eml,,,20010315-0912 Budget review Q1,"From:	Jordan, Sam (Finance)
+Sent:	Thursday, March 14, 2001 4:30 PM
+To:	Turner, Alex (Finance)
+Subject:	Budget review Q1
+
+Alex,
+Can you confirm the figures for the eastern region?","Jordan, Sam (Finance)","Thursday, March 14, 2001 4:30 PM","Turner, Alex (Finance)","Williams, Chris (Finance)",Budget review Q1,,"Alex,
+Can you confirm the figures for the eastern region? We need them by end of day Thursday.","<PERSON1>,
+Can you confirm the figures for the eastern region? We need them by end of day <DATE_TIME1>.","{'<PERSON1>': 'Alex', '<PERSON2>': 'Sam', '<PERSON3>': 'Chris'}",{},{},{'<DATE_TIME1>': 'Thursday'},{}
+2,20020822-1103 Safety inspection follow-up.eml,C:\Emails_Archiving\SampleArchive_Converted\archive2.pst\Archive\Top of Personal Folders\Admin- Safety\20020822-1103 Safety inspection follow-up.eml,"All,
+The safety inspection scheduled for August 28 is confirmed. Please ensure all equipment logs are up to date prior to the visit.
+
+Regards,
+Pat",C:,Emails_Archiving,SampleArchive_Converted,archive2.pst,Archive,Top of Personal Folders,Admin- Safety,20020822-1103 Safety inspection follow-up.eml,,,20020822-1103 Safety inspection follow-up,"All,
+The safety inspection scheduled for August 28 is confirmed. Please ensure all equipment logs are up to date prior to the visit.","Morgan, Pat (Operations)","Thursday, August 22, 2002 11:03 AM",Operations Staff,,Safety inspection follow-up,High,"All,
+The safety inspection scheduled for August 28 is confirmed. Please ensure all equipment logs are up to date prior to the visit.
+
+Regards,
+Pat","All,
+The safety inspection scheduled for <DATE_TIME1> is confirmed. Please ensure all equipment logs are up to date prior to the visit.
+
+Regards,
+<PERSON1>",{'<PERSON1>': 'Pat'},{},{},{'<DATE_TIME1>': 'August 28'},{}
+3,20001107-1532 RE- Boiler maintenance schedule.eml,C:\Emails_Archiving\SampleArchive_Converted\repaired.pst\Repaired\Top of Personal Folders\Inbox\Operations\20001107-1532 RE- Boiler maintenance schedule.eml,"Thanks for the update. We will have boiler 3 offline starting Monday for the tube inspection. Estimated downtime is 48 hours.
+
+Lee
+
+-----Original Message-----
+From: Casey, Robin
+Sent: Tuesday, November 6, 2000 3:15 PM",C:,Emails_Archiving,SampleArchive_Converted,repaired.pst,Repaired,Top of Personal Folders,Inbox,Operations,20001107-1532 RE- Boiler maintenance schedule.eml,,20001107-1532 RE- Boiler maintenance schedule,"Thanks for the update. We will have boiler 3 offline starting Monday for the tube inspection. Estimated downtime is 48 hours.
+
+Lee","Kim, Lee (Plant Engineering)","Wednesday, November 7, 2000 3:32 PM","Casey, Robin (Plant Engineering)","Taylor, Drew (Operations)",RE: Boiler maintenance schedule,,"Thanks for the update. We will have boiler 3 offline starting Monday for the tube inspection. Estimated downtime is 48 hours.
+
+Lee","Thanks for the update. We will have boiler 3 offline starting <DATE_TIME1> for the tube inspection. Estimated downtime is 48 hours.
+
+<PERSON1>","{'<PERSON1>': 'Lee', '<PERSON2>': 'Robin', '<PERSON3>': 'Drew'}",{},{},{'<DATE_TIME1>': 'Monday'},{}
+4,19991207-0845 Contract renewal notice.eml,C:\Emails_Archiving\SampleArchive_Converted\1Admin.pst\1 Admin\Top of Personal Folders\Admin- APP Contract Posting\19991207-0845 Contract renewal notice.eml,"Please be advised that the service contract for HVAC unit 7 is due for renewal on January 1, 2000. Vendor contact is 217-555-0142. Please process the renewal PO by December 20.",C:,Emails_Archiving,SampleArchive_Converted,1Admin.pst,1 Admin,Top of Personal Folders,Admin- APP Contract Posting,19991207-0845 Contract renewal notice.eml,,,19991207-0845 Contract renewal notice,"Please be advised that the service contract for HVAC unit 7 is due for renewal on January 1, 2000. Vendor contact is 217-555-0142. Please process the renewal PO by December 20.","Procurement, Office (Admin)","Tuesday, December 7, 1999 8:45 AM","Facilities, Manager (Admin)",,Contract renewal notice,Normal,"Please be advised that the service contract for HVAC unit 7 is due for renewal on January 1, 2000. Vendor contact is 217-555-0142. Please process the renewal PO by December 20.",Please be advised that the service contract for HVAC unit 7 is due for renewal on <DATE_TIME1>. Vendor contact is <PHONE1>. Please process the renewal PO by <DATE_TIME2>.,{},{'<PHONE1>': '217-555-0142'},{},"{'<DATE_TIME1>': 'January 1, 2000', '<DATE_TIME2>': 'December 20'}",{}
+5,20030501-1415 Water treatment log April.eml,C:\Emails_Archiving\SampleArchive_Converted\03Active1.pst\03 Active\Top of Personal Folders\APP- Sys- Water Treatment Genl\20030501-1415 Water treatment log April.eml,"Attached is the water treatment log for April 2003. All readings within normal range. One anomaly noted on April 17 — dissolved oxygen spike on unit 2, corrected by 1600hrs.
+
+Francis",C:,Emails_Archiving,SampleArchive_Converted,03Active1.pst,03 Active,Top of Personal Folders,APP- Sys- Water Treatment Genl,20030501-1415 Water treatment log April.eml,,,20030501-1415 Water treatment log April,"Attached is the water treatment log for April 2003. All readings within normal range. One anomaly noted on April 17 — dissolved oxygen spike on unit 2, corrected by 1600hrs.","Rivera, Francis (Engineering)","Thursday, May 1, 2003 2:15 PM","Chen, Morgan (Engineering)",,Water treatment log April,,"Attached is the water treatment log for April 2003. All readings within normal range. One anomaly noted on April 17 — dissolved oxygen spike on unit 2, corrected by 1600hrs.
+
+Francis","Attached is the water treatment log for <DATE_TIME1>. All readings within normal range. One anomaly noted on <DATE_TIME2> — dissolved oxygen spike on unit 2, corrected by 1600hrs.
+
+<PERSON1>","{'<PERSON1>': 'Francis', '<PERSON2>': 'Morgan'}",{},{},"{'<DATE_TIME1>': 'April 2003', '<DATE_TIME2>': 'April 17'}",{}
+6,20020314-0933 FW- Energy audit results.eml,C:\Emails_Archiving\SampleArchive_Converted\03Active1.pst\03 Active\Top of Personal Folders\APP- Engin- Energy Analysis\20020314-0933 FW- Energy audit results.eml,"FYI — forwarding the energy audit results from last quarter. Notable savings identified in steam distribution. Full report attached.
+
+J. Park
+
+-----Original Message-----
+From: Audit Team
+Sent: Wednesday, March 13, 2002 5:00 PM",C:,Emails_Archiving,SampleArchive_Converted,03Active1.pst,03 Active,Top of Personal Folders,APP- Engin- Energy Analysis,20020314-0933 FW- Energy audit results.eml,,,20020314-0933 FW- Energy audit results,FYI — forwarding the energy audit results from last quarter. Notable savings identified in steam distribution. Full report attached.,"Park, Jamie (Engineering)","Thursday, March 14, 2002 9:33 AM",Operations Leadership,"Kim, Lee (Plant Engineering)",FW: Energy audit results,,"FYI — forwarding the energy audit results from last quarter. Notable savings identified in steam distribution. Full report attached.
+
+J. Park","FYI — forwarding the energy audit results from last quarter. Notable savings identified in steam distribution. Full report attached.
+
+<PERSON1>","{'<PERSON1>': 'J. Park', '<PERSON2>': 'Lee'}",{},{},{},{}
+7,20010903-1601 Personnel update.eml,C:\Emails_Archiving\SampleArchive_Converted\repaired.pst\Repaired\Top of Personal Folders\Inbox\Brewer\Admin- APP Personnel\20010903-1601 Personnel update.eml,"Effective September 10, the following staff changes are in effect:
+- J. Nguyen moves to day shift, Boiler Plant
+- M. Santos transitions to lead technician role
+
+Please update your records accordingly.
+
+HR Office",C:,Emails_Archiving,SampleArchive_Converted,repaired.pst,Repaired,Top of Personal Folders,Inbox,Brewer,Admin- APP Personnel,20010903-1601 Personnel update.eml,20010903-1601 Personnel update,"Effective September 10, the following staff changes are in effect:
+- J. Nguyen moves to day shift, Boiler Plant
+- M. Santos transitions to lead technician role",Human Resources Office,"Monday, September 3, 2001 4:01 PM",All Plant Supervisors,,Personnel update,Normal,"Effective September 10, the following staff changes are in effect:
+- J. Nguyen moves to day shift, Boiler Plant
+- M. Santos transitions to lead technician role
+
+Please update your records accordingly.","Effective <DATE_TIME1>, the following staff changes are in effect:
+- <PERSON1> moves to day shift, Boiler Plant
+- <PERSON2> transitions to lead technician role
+
+Please update your records accordingly.","{'<PERSON1>': 'J. Nguyen', '<PERSON2>': 'M. Santos'}",{},{},{'<DATE_TIME1>': 'September 10'},{}
+8,20000324-1400 New accounts payable procedure.eml,C:\Emails_Archiving\SampleArchive_Converted\2Legal_Finance.pst\2 Legal Fiscal\Top of Personal Folders\Admin- Accounting\20000324-1400 New accounts payable procedure.eml,"Effective April 1, all purchase orders over $5,000 must be approved by two supervisors before submission. Please review the updated procedure document attached. Questions can be directed to accounting at ext. 4421.
+
+Accounting Office",C:,Emails_Archiving,SampleArchive_Converted,2Legal_Finance.pst,2 Legal Fiscal,Top of Personal Folders,Admin- Accounting,20000324-1400 New accounts payable procedure.eml,,,20000324-1400 New accounts payable procedure,"Effective April 1, all purchase orders over $5,000 must be approved by two supervisors before submission.",Accounting Office,"Friday, March 24, 2000 2:00 PM",All Department Heads,,New accounts payable procedure,High,"Effective April 1, all purchase orders over $5,000 must be approved by two supervisors before submission. Please review the updated procedure document attached. Questions can be directed to accounting at ext. 4421.","Effective <DATE_TIME1>, all purchase orders over $5,000 must be approved by two supervisors before submission. Please review the updated procedure document attached. Questions can be directed to accounting at ext. <PHONE1>.",{},{'<PHONE1>': 'ext. 4421'},{},{'<DATE_TIME1>': 'April 1'},{}
+9,20031118-0801 RE- Coal delivery schedule.eml,C:\Emails_Archiving\SampleArchive_Converted\03Active1.pst\03 Active\Top of Personal Folders\APP- Sys- Coal Deliveries\20031118-0801 RE- Coal delivery schedule.eml,"The delivery for next week has been pushed to Wednesday due to weather. Estimated tonnage remains at 450 tons. Please confirm receiving dock availability.
+
+T. Brooks
+
+-----Original Message-----
+From: Supplier Logistics
+Sent: Monday, November 17, 2003 4:45 PM",C:,Emails_Archiving,SampleArchive_Converted,03Active1.pst,03 Active,Top of Personal Folders,APP- Sys- Coal Deliveries,20031118-0801 RE- Coal delivery schedule.eml,,,20031118-0801 RE- Coal delivery schedule,The delivery for next week has been pushed to Wednesday due to weather. Estimated tonnage remains at 450 tons. Please confirm receiving dock availability.,"Brooks, T. (Fuel Management)","Tuesday, November 18, 2003 8:01 AM",Plant Operations,"Kim, Lee (Plant Engineering)",RE: Coal delivery schedule,,"The delivery for next week has been pushed to Wednesday due to weather. Estimated tonnage remains at 450 tons. Please confirm receiving dock availability.
+
+T. Brooks","The delivery for next week has been pushed to <DATE_TIME1> due to weather. Estimated tonnage remains at 450 tons. Please confirm receiving dock availability.
+
+<PERSON1>","{'<PERSON1>': 'T. Brooks', '<PERSON2>': 'Lee'}",{},{},{'<DATE_TIME1>': 'Wednesday'},{}
